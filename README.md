@@ -36,7 +36,7 @@ The project includes the following main components:
 
 - `Main-EMS/`: Main directory containing the core system files
 - Fall detection system (separate file)
-- Emotion detection system (separate file)
+- Emotion recognition system (separate file)
 
 ## Configuration
 
