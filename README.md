@@ -2,7 +2,7 @@
 
 ## Overview
 
-WellBe is an innovative project aimed at addressing the challenges faced by elderly individuals living alone. By leveraging advanced Machine Learning (ML) and Deep Learning (DL) techniques, WellBe provides a comprehensive solution for elderly care, focusing on companionship, safety, and overall well-being.
+WellBe is an innovative project aimed at addressing the challenges faced by elderly individuals living alone. By leveraging advanced Machine Learning (ML) and Deep Learning (DL) techniques, WellBe provides a comprehensive solution for elderly people, focusing on companionship, safety, and overall well-being.
 
 ## Project Scope
 
