@@ -15,7 +15,7 @@ WellBe is an innovative project aimed at addressing the challenges faced by elde
 
 ## Objectives
 
-1. **Enhanced Well-Being**: Reduce loneliness and isolation by providing companionship and structure.
+1. **Enhanced Well-Being**: Reduce loneliness and isolation by providing assistance and structure.
 2. **Safety**: Ensure elderly safety through detection of falls, emergencies, and other unusual events.
 3. **Personalization**: Customize daily routines and support systems to suit individual preferences and needs.
 4. **Privacy and Ethics**: Respect privacy standards and ethical considerations in data collection and analysis.
